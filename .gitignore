@@ -1,0 +1,21 @@
+# Platform folders to exclude
+ios/
+macos/
+linux/
+windows/
+web/
+
+# Build and generated files
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.melody
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+*.log

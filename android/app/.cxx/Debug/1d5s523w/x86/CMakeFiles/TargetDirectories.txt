@@ -1,0 +1,2 @@
+D:/ml project/ml_nav/Nav/frontend/android/app/.cxx/Debug/1d5s523w/x86/CMakeFiles/edit_cache.dir
+D:/ml project/ml_nav/Nav/frontend/android/app/.cxx/Debug/1d5s523w/x86/CMakeFiles/rebuild_cache.dir
