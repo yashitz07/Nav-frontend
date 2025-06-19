@@ -167,7 +167,7 @@ class _HomePageState extends State<HomePage> {
       },
       child: Scaffold(
         appBar: AppBar(
-          title: const Text("NavEase"),
+          title: const Text("PathEase"),
           backgroundColor: Colors.black,
         ),
         body: ListView(

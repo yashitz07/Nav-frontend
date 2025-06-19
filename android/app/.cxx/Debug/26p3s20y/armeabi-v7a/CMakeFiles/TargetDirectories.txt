@@ -1,0 +1,2 @@
+D:/Pathfinder/Nav-frontend/android/app/.cxx/Debug/26p3s20y/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Pathfinder/Nav-frontend/android/app/.cxx/Debug/26p3s20y/armeabi-v7a/CMakeFiles/rebuild_cache.dir
