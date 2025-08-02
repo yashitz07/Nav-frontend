@@ -1,4 +1,4 @@
-PathEASE: An app for Visually Impaired
+NavEASE: An app for Visually Impaired
 ====================
 Visually impaired individuals and senior citizens encounter substantial difficulties when navigating complex and unfamiliar environments, such as shopping malls, hospitals, and public spaces. These challenges encompass struggles in determining their current location, identifying the most efficient path to their desired destination, and maintaining a sense of independence and confidence. Consequently, there exists a compelling necessity for the development of a user-friendly, voice-controlled application tailored explicitly to visually impaired individuals and senior citizens. This app aims to facilitate independent navigation within enclosed spaces, enabling them to efficiently reach their destinations with minimal assistance and boosting their self-assurance.
 
@@ -52,3 +52,4 @@ You can try the app by downloading the latest APK:
 | `pubspec.yaml`                    | Lists dependencies and assets; configures app-level settings               |
 
 ---
+
